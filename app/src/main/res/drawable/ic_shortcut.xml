@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Simplified emblem path here -->
+    <path
+        android:fillColor="#FF7A00"
+        android:pathData="M24,2 L46,24 L24,46 L2,24 Z"/>
+</vector>

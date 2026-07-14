@@ -1,0 +1,27 @@
+*.iml
+.gradle/
+.kotlin/
+local.properties
+.idea/
+.DS_Store
+build/
+app/build/
+/captures
+.externalNativeBuild
+.cxx
+.env
+debug.keystore
+debug.keystore.base64
+.build-outputs/
+*.log
+*.zip
+!*.ttf
+
+# Temporary logs, crash dumps, and IDE caches
+*.tmp
+*.dmp
+.idea/workspace.xml
+.idea/caches/
+.idea/libraries/
+.gradle/caches/
+**/build/
